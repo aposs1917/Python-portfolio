@@ -1,0 +1,13 @@
+Dataset info are found in the html file. 
+
+
+The goal of this project is to examine employee retention of a firm using classification techniques and exploratory
+data analysis
+
+
+Classification algorithms used 
+Decision Tree,Random Forest, Support Vector Machine classifier, K nearest neighbors classifier
+
+###Overall results
+Most employees that left joined the company in 2018, followed by employees that had a master's and bachelor's degree.
+It is possible that something happened in 2018 but without specific information we cant infer more about the subject.
