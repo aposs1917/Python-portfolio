@@ -6,5 +6,5 @@ The dataset and variable description are found in the beggining of the file
 
 #Main findings
 
-Using logistic regression a 99.86 accuracy score was achieved. 
+Using logistic regression a 99.7 recall score was achieved. 
 The main factors that contribute to a customer's decision to leave is if he has made a previous complaint, his age, the years he has been a client of the bank(tenure).
